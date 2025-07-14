@@ -1,0 +1,12 @@
+# Deps
+node_modules
+build
+
+
+# Drizzle
+drizzle
+
+# Env
+.env
+.env.*
+!.env.sample
